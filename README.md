@@ -16,12 +16,9 @@ Student of Computer Engineering at the Federal Institute of Science and Technolo
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,qt,c,dart,flutter,py,mysql,html,css,github,gitlab,linux,cmake)](https://skillicons.dev)
 
-
-
-
-
 ## Socials:
  
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-diego-de-meneses-b1219b157/)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paulo.meneses3636@gmail.com)
-   [![WeChat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)](weixin://dl/chat?paulDM66)
+   [![WeChat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)](https://msng.link/o/?https%3A%2F%2Fu.wechat.com%2FkKNOOP-4aI5rZenjrRGFfqo=wc)
+   
