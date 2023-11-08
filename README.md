@@ -2,9 +2,9 @@
 
 Student of Computer Engineering at the Federal Institute of Science and Technology of Ceará (IFCE), Technician in Computer Networks graduated on IFCE, focused on Software Development, and related fields.
 
-- 🔭 I’m currently working on a feature for an embeded system using Qt
-- 🌱 I’m currently learning Python & Flutter
-- 💬 Ask me about Mathematics
+- 🔭 I’m currently working on a mobile app for Urban Mobility.
+- 🌱 I’m currently learning Elixir.
+- 💬 Ask me about Mathematics, Competitive Programming and Algorithms.
 
 ## My Github Stats:
 
