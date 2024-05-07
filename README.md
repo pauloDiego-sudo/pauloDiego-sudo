@@ -2,8 +2,8 @@
 
 Student of Computer Engineering at the Federal Institute of Science and Technology of Ceará (IFCE), Technician in Computer Networks graduated on IFCE, focused on Software Development, and related fields.
 
-- 🔭 I’m currently working on a mobile app for Urban Mobility.
-- 🌱 I’m currently learning Elixir.
+- 🔭 I’m currently working on a firmware project.
+- 🌱 I’m currently learning Esp-idf.
 - 💬 Ask me about Mathematics, Competitive Programming and Algorithms.
 
 ## My Github Stats:
@@ -14,7 +14,7 @@ Student of Computer Engineering at the Federal Institute of Science and Technolo
 
 ## Technologies i'm familiar with:
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,qt,c,dart,flutter,py,mysql,html,css,github,gitlab,linux,cmake)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,qt,c,dart,flutter,py,opencv,pytorch,tensorflow,docker,mysql,postman,html,css,github,gitlab,linux,cmake)](https://skillicons.dev)
 
 ## Socials:
  
