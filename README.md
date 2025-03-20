@@ -2,8 +2,6 @@
 
 Student of Computer Engineering at the Federal Institute of Science and Technology of Ceará (IFCE), Technician in Computer Networks graduated on IFCE, focused on Software Development, and related fields.
 
-- 🔭 I’m currently working on a firmware project.
-- 🌱 I’m currently learning Esp-idf.
 - 💬 Ask me about Mathematics, Competitive Programming and Algorithms.
 
 ## My Github Stats:
