@@ -4,10 +4,10 @@ I am an Engineering student at ENSICAEN specializing in Cybersecurity and Artifi
 
 **Dual Engineering Degree Program (BRAFITEC Mobility) - Computer Engineering**
 
-**ENSICAEN (France) & Federal Institute of Education, Science and Technology of Ceará (IFCE, Brazil) | [cite_start]2022 - 2027 (Ongoing)** [cite: 15, 120, 126]
+**ENSICAEN (France) & Federal Institute of Education, Science and Technology of Ceará (IFCE, Brazil) | 2022 - 2027 (Ongoing)** 
 
-* [cite_start]**Specialization in France:** Option in Cybersecurity and Artificial Intelligence[cite: 122].
-* [cite_start]**Relevant Coursework:** Cryptography [cite: 6, 123][cite_start], Introduction to Cybersecurity and AI Security [cite: 123][cite_start], Data Mining and Machine Learning [cite: 7, 123][cite_start], Graphs and Automata [cite: 6][cite_start], and Software Engineering Design Patterns[cite: 6].
+* **Specialization in France:** Option in Cybersecurity and Artificial Intelligence.
+* **Relevant Coursework:** Cryptography, Introduction to Cybersecurity and AI Security, Data Mining and Machine Learning, Graphs and Automata, and Software Engineering Design Patterns.
 
 - 💬 Ask me about Competitive Programming and Algorithms.
 - ✨ I value clean, documented code and the feeling of delivering systems that are testable and pleasant to maintain.
@@ -15,6 +15,7 @@ I am an Engineering student at ENSICAEN specializing in Cybersecurity and Artifi
 ## My Github Stats:
 
 ![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=pauloDiego-sudo&show_icons=true&theme=dracula)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pauloDiego-sudo&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Technologies i am currently using:
