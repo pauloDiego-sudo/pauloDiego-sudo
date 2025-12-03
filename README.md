@@ -8,9 +8,13 @@ I am an Engineering student at ENSICAEN specializing in Cybersecurity and Artifi
 
 * **Specialization in France:** Option in Cybersecurity and Artificial Intelligence.
 * **Relevant Coursework:** Cryptography, Introduction to Cybersecurity and AI Security, Data Mining and Machine Learning, Graphs and Automata, and Software Engineering Design Patterns.
-
-- 💬 Ask me about Competitive Programming and Algorithms.
-- ✨ I value clean, documented code and the feeling of delivering systems that are testable and pleasant to maintain.
+* 
+## Interests
+• Listens to music, mainly metal and classical, while keeping an eclectic taste. Tries to play songs on electric guitar.
+• Reads manga with dramatic and mystery tones; a favorite is 20th Century Boys.
+• Watch TV series such as Game of Thrones and Breaking Bad. Currently re-watching Game of Thrones.
+- Likes to talk about his home country, Competitive Programming and Algorithms.
+- Values clean, documented code and the feeling of delivering systems that are testable and pleasant to maintain.
 
 ## My Github Stats:
 
