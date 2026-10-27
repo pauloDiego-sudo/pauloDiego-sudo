@@ -2,7 +2,7 @@
 
 I am an Engineering student at ENSICAEN specializing in Cybersecurity and Artificial Intelligence, with a foundation in Computer Engineering from the Federal Institute of Ceará (Brazil). I have practical experience in developing versatile software solutions, from embedded systems to full-stack web architectures. I am currently seeking a 4 to 6 month internship in France to apply my technical skills in a professional environment.
 
-**Dual Engineering Degree Program (BRAFITEC Mobility) - Computer Engineering**
+**Exchange Program (BRAFITEC Mobility) - Computer Engineering**
 
 **ENSICAEN (France) & Federal Institute of Education, Science and Technology of Ceará (IFCE, Brazil) | 2022 - 2027 (Ongoing)** 
 
